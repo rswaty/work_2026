@@ -11,14 +11,11 @@
 ## Professional Development
 
 - [[1_GEE]]
-- [[2_Python_GIS]]
-
-  
+- [[2_Python_GIS]]  
 
 ---
 
   
-
 ## 🔍 Open Tasks by Objective  
 
 ### Objective 1: One Conservancy
@@ -47,5 +44,13 @@ task where contains(tags, "objective3") and !completed
 ```dataview
 
 task where contains(tags, "objective4") and !completed
+
+```
+
+## Objective 5: Data Analysis/Investigations/Publications
+
+```dataview
+
+task where contains(tags, "objective5") and !completed
 
 ```

@@ -18,8 +18,8 @@ Develop relationships, update web sites, maintain/grow CDL and support Megan Det
 
 These are planning and 'keep things moving with people' items.  Specific tasks will be in sub-notes. 
 
-- [ ] Set up meeting with Lisa Kluesner #objective2
-- [ ] Connect with Francine Lheritier #objective2 
+- [x] Reach out to Lisa Kluesner to set up meeting #objective2
+- [x] Email Francine Lheritier #objective2
 - [ ] Add LF Fuels/Fire page to r_demos #objective2 
 - [ ] Work up some sort of plan for CDL 1st "quarter"  #objective2 
 - [ ] Draft note on BpS workshops with RD Sample #objective2 

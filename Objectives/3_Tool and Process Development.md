@@ -15,7 +15,7 @@ Develop tools, scripts and databases as needed and requested.
 
 These are planning and 'keep things moving with people' items.  Specific tasks will be in sub-notes. 
 
-- [ ] set up meeting with Mathurin #objective3
+- [ ] reach out to set up meeting with Mathurin #objective3
 - [ ] draft BpS content management sub note #objective3 
 
 

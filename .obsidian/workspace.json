@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "5c9d82c0c50d32d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objectives Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objectives Dashboard"
+            }
+          },
+          {
             "id": "224b7a2f067a824e",
             "type": "leaf",
             "state": {
@@ -36,7 +50,7 @@
             }
           },
           {
-            "id": "3d432f8215a654cd",
+            "id": "4067c6548685f9c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +64,7 @@
             }
           },
           {
-            "id": "fcee418af44db4c7",
+            "id": "45e3da1e58056153",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,21 +78,20 @@
             }
           },
           {
-            "id": "5c9d82c0c50d32d7",
+            "id": "3d432f8215a654cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objectives Dashboard.md",
+                "file": "Objectives/5_Data Analysis-Investigations-Publications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objectives Dashboard"
+              "title": "5_Data Analysis-Investigations-Publications"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 641.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,13 +264,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcee418af44db4c7",
+  "active": "5c9d82c0c50d32d7",
   "lastOpenFiles": [
-    "Objectives Dashboard.md",
-    "Objectives/4_LANDFIRE Production Support Subject Matter Expert.md",
-    "Objectives/3_Tool and Process Development.md",
     "Objectives/2_LANDFIRE Communication.md",
+    "Objectives Dashboard.md",
     "Objectives/1_One Conservancy.md",
+    "Objectives/3_Tool and Process Development.md",
+    "Objectives/5_Data Analysis-Investigations-Publications.md",
+    "Objectives/4_LANDFIRE Production Support Subject Matter Expert.md",
+    "Journal of Pyrogeography.md",
     "Objectives/Northwoods.md",
     "Objectives/Science Coda Details.md",
     "Professional Development/Python and GIS.md",
