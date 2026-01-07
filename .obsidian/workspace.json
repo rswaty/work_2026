@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c9d82c0c50d32d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objectives Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Objectives Dashboard"
-            }
-          },
-          {
-            "id": "224b7a2f067a824e",
+            "id": "075afd8071057d34",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +22,21 @@
             }
           },
           {
-            "id": "83a156bdbbef2fd5",
+            "id": "28ef60eec1303de4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objectives/Science Coda Details.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Science Coda Details"
+            }
+          },
+          {
+            "id": "5c9d82c0c50d32d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "4067c6548685f9c0",
+            "id": "29ace612c9d1522d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "45e3da1e58056153",
+            "id": "c464304ced121723",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
             }
           },
           {
-            "id": "3d432f8215a654cd",
+            "id": "7938942daf2df8d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,6 +89,20 @@
               },
               "icon": "lucide-file",
               "title": "5_Data Analysis-Investigations-Publications"
+            }
+          },
+          {
+            "id": "15d3648d6679a5c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cool Data Viz Projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cool Data Viz Projects"
             }
           }
         ]
@@ -250,7 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 641.5
+    "width": 487.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,17 +278,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c9d82c0c50d32d7",
+  "active": "075afd8071057d34",
   "lastOpenFiles": [
-    "Objectives/2_LANDFIRE Communication.md",
-    "Objectives Dashboard.md",
+    "Objectives/Science Coda Details.md",
     "Objectives/1_One Conservancy.md",
+    "Objectives/2_LANDFIRE Communication.md",
     "Objectives/3_Tool and Process Development.md",
     "Objectives/5_Data Analysis-Investigations-Publications.md",
     "Objectives/4_LANDFIRE Production Support Subject Matter Expert.md",
-    "Journal of Pyrogeography.md",
+    "Random Notes.md",
+    "Obsidian Notes.md",
     "Objectives/Northwoods.md",
-    "Objectives/Science Coda Details.md",
+    "Objectives/Comms.md",
+    "Cool Data Viz Projects.md",
+    "Objectives Dashboard.md",
+    "Journal of Pyrogeography.md",
     "Professional Development/Python and GIS.md",
     "Professional Development/Python and GIS",
     "Professional Development/GEE",

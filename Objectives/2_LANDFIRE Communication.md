@@ -23,6 +23,7 @@ These are planning and 'keep things moving with people' items.  Specific tasks w
 - [ ] Add LF Fuels/Fire page to r_demos #objective2 
 - [ ] Work up some sort of plan for CDL 1st "quarter"  #objective2 
 - [ ] Draft note on BpS workshops with RD Sample #objective2 
+- [x] Send draft Pine Oak excel spreadsheet and chart to Eric Clark #objective2 
 
   ---
 ## Sub-Notes
