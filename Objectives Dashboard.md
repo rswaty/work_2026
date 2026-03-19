@@ -12,6 +12,7 @@
 
 - [[1_GEE]]
 - [[2_Python_GIS]]  
+- [[1_Career]]
 
 ---
 
@@ -53,4 +54,10 @@ task where contains(tags, "objective4") and !completed
 
 task where contains(tags, "objective5") and !completed
 
+```
+
+## Career
+
+```dataview
+task where contains(tags, "career")
 ```

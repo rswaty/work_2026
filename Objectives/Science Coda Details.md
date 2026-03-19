@@ -17,12 +17,14 @@ Details and progress for the TNC Science Coda project: Strengthening community c
   
 ## Tasks
 
-- [ ] Add citations and bullets to Siddarth's Draft Jhum Recommendations https://tnc.box.com/s/hpqgk3l8hzkala3day9g22023b3yprxs #objective1 #science-coda
+- [ ] Make STM slides #objective1 
+- [ ] Look up process for summarizing Mendeley using AI
+- [x] say hi to Rimchi #objective1 
 
-- [x] e-mail Sanjana about coffee/tea meeting #objective1 #science-coda
-	
+- [x] e-mail Sanjana about coffee/tea meeting #objective1 #science-coda	
 - [x] Map demo landforms for east garo hills and send to Siddarth
 - [x] e-mail Ryan Stock to discuss travel: dogs, water, food, adapters/converters, gifts/customs, etc. 
+
 
   ---
 ## Notes

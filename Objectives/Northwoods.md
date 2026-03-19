@@ -12,10 +12,10 @@ Details and progress for the Northwoods project for MIBU, sponsored by Matt Dall
 ---
 ## Tasks
 
-- [ ] finalize and share wildfire exposure risk map #northwoods #objective1 
-- [ ] make and post hex map of wildfire exposure risk for review #northwoods #objective1 
-
-  ---
+- [x] finalize and share wildfire exposure risk map #northwoods #objective1
+- [x] make and post hex map of wildfire exposure risk for review #northwoods #objective1
+	
+	---
 ## Notes
 
 (Add meeting notes, ideas, or decisions here)

@@ -11,6 +11,7 @@ Develop relationships, update web sites, maintain/grow CDL and support Megan Det
 - Begin relationship building with regional and national Natural Resource Conservation Service staff.
 - Maintain and update https://landfire-tnc.github.io/r_demos/
 - Continue work with the Conservation Data Lab including the development of a sustainable futuring leadership/administration model.
+- - [ ] Add Fed page to assessments0
 - Support team communications strategy through collaborating with communications lead on activities such as making videos, developing/reviewing materials, creating websites, and hosting/organizing Open Hours as decided by the team
   
 ---
@@ -24,6 +25,7 @@ These are planning and 'keep things moving with people' items.  Specific tasks w
 - [ ] Work up some sort of plan for CDL 1st "quarter"  #objective2 
 - [ ] Draft note on BpS workshops with RD Sample #objective2 
 - [x] Send draft Pine Oak excel spreadsheet and chart to Eric Clark #objective2 
+- [ ] Develop and send out IFTDSS plan to Rebecca, Nate and Willow
 
   ---
 ## Sub-Notes
