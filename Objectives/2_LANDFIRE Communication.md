@@ -21,11 +21,15 @@ These are planning and 'keep things moving with people' items.  Specific tasks w
 
 - [x] Reach out to Lisa Kluesner to set up meeting #objective2
 - [x] Email Francine Lheritier #objective2
-- [ ] Add LF Fuels/Fire page to r_demos #objective2 
-- [ ] Work up some sort of plan for CDL 1st "quarter"  #objective2 
-- [ ] Draft note on BpS workshops with RD Sample #objective2 
-- [x] Send draft Pine Oak excel spreadsheet and chart to Eric Clark #objective2 
-- [ ] Develop and send out IFTDSS plan to Rebecca, Nate and Willow
+
+### TPOS
+- [ ] draft "Burnable Ag" document #objective2 
+- [x] write helpdesk about update pages #objective2 
+- [x] get TPOS assessment posted
+- [ ] prep ArcGIS pro
+	- [ ] add fuels
+	- [ ] make EVT with burnable/non-burnable ag colored
+- [ ] start work on burnable ag document?
 
   ---
 ## Sub-Notes
