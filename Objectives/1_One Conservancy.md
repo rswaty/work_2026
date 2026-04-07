@@ -21,7 +21,7 @@ These are planning and 'keep things moving with people' items.  Specific tasks w
 - [x] Work on relationship with a division and/or new BU #objective1
 - [x] Post and share draft BTG for James DePasquale et al
 - [x] Incorporate Jim's Shawnee River comments and Sarah's EVT palette; resend
-- [ ] Add in "Raw Data" page on WSCR
+- [ ] Add in "Raw Data" page on WSCR, or just post #objective1 
 - [x] Watch for and participate in Data Standards and Quality work with Kate Shorrock and Amy Collins
 - [x] Meet with Jeremy Choon (Yale student; found me on LinkedIn) Friday January 9, 2026
 - [ ] Try to speed up Red Spruce Shiny for Katy Shallows #objective1 

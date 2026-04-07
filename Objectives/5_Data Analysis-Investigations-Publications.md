@@ -17,8 +17,10 @@ Get a paper or two out (lead and/or co-author), perform repeatable analysis
 
 These are planning and 'keep things moving with people' items.  Specific tasks will be in sub-notes. 
 
-- [ ] Review Baker paper that Kori sent March 16, 2026 #objective5 
-- [ ] Write abstract and message points for [[https://www.sciencedirect.com/special-issue/327746/fire-through-space-and-time-history-trends-patterns-and-regimes | Journal of Pyrogeography]] call for abstracts #objective5 
+- [x] Review Baker paper that Kori sent March 16, 2026 #objective5 
+- [ ] Review spreadsheet from Kori (email 'include/exclude papers', March 31, 2026) #objective5 
+- [ ] Look at Baker Uncompahgre paper for meeting with Kori on April 8, 2026
+- [ ] Write abstract and message points for [[https://www.sciencedirect.com/special-issue/327746/fire-through-space-and-time-history-trends-patterns-and-regimes | Journal of Pyrogeography]] call for abstracts-share with team #objective5 
 
   ---
 ## Sub-Notes

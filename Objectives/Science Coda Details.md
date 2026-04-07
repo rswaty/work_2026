@@ -18,7 +18,8 @@ Details and progress for the TNC Science Coda project: Strengthening community c
 ## Tasks
 
 - [ ] Make STM slides #objective1 
-- [ ] Look up process for summarizing Mendeley using AI
+- [x] Look up process for summarizing Mendeley using AI
+- [ ] Draft and share lit review
 - [x] say hi to Rimchi #objective1 
 
 - [x] e-mail Sanjana about coffee/tea meeting #objective1 #science-coda	
@@ -37,6 +38,21 @@ Details and progress for the TNC Science Coda project: Strengthening community c
 		- ==Navan, average rate is ~ $  for Feb 6 - Feb 19== 
 		-  ==MQT -ORD $376==
 		-  ==ORD -  GAU $1,316==
+
+### Meeting with Yash and Siddarth March 25
+
+- Yash had a call with Meaza-only feedback would have been to have more time in India, felt like fellowship has been good
+- With review of draft
+	- add case studies.  Siddarth on track to do that
+	- lots of good suggestions
+	- more about sustainable AG (with the title).  Make sure this is not just about Jhum.
+	- some of the techniques felt a bit technical.  Describe them in more detail.  For example pictures or more info on bamboo structures
+	- looking forward to seeing more of the spatial work and STM
+	- hoping for more field work and another CODA
+- Siddarth asks what is next.  Yash:
+	- NESFAS will get report
+	- Learning circles can start soon
+	- Can promote and easily do work with items that are not funding on citizen science
   
 
 ---

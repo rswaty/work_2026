@@ -8,104 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c9d82c0c50d32d7",
+            "id": "4c796e5a975c8738",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objectives/2_LANDFIRE Communication.md",
+                "file": "Objectives/1_One Conservancy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2_LANDFIRE Communication"
+              "title": "1_One Conservancy"
             }
           },
           {
-            "id": "c464304ced121723",
+            "id": "9c093fcbe8883693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objectives/USFS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "USFS"
+            }
+          },
+          {
+            "id": "3603851273764125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objectives/3_Tool and Process Development.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3_Tool and Process Development"
+            }
+          },
+          {
+            "id": "512277b6dc4ca708",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Objectives/4_LANDFIRE Production Support Subject Matter Expert.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "4_LANDFIRE Production Support Subject Matter Expert"
             }
           },
           {
-            "id": "7938942daf2df8d9",
+            "id": "dbb40ca634d64043",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Objectives/5_Data Analysis-Investigations-Publications.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "5_Data Analysis-Investigations-Publications"
             }
-          },
-          {
-            "id": "c36e07be6065beee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objectives/Partnership with NRCS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Partnership with NRCS"
-            }
-          },
-          {
-            "id": "55bd8210b59e37a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objectives/Comms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Comms"
-            }
-          },
-          {
-            "id": "fff68233d70e1fbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objectives/NIACS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NIACS"
-            }
-          },
-          {
-            "id": "28ef60eec1303de4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objectives/Science Coda Details.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Science Coda Details"
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -264,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487.5
+    "width": 618.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,8 +251,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c9d82c0c50d32d7",
+  "active": "67fca7bf9872412e",
   "lastOpenFiles": [
+    "Objectives/4_LANDFIRE Production Support Subject Matter Expert.md",
+    "Objectives/USFS.md",
+    "Objectives/2_LANDFIRE Communication.md",
+    "Objectives/5_Data Analysis-Investigations-Publications.md",
+    "Objectives/3_Tool and Process Development.md",
     "Objectives/1_One Conservancy.md",
     "Objectives/Science Coda Details.md",
     "Objectives Dashboard.md",
@@ -287,19 +265,14 @@
     "1_Career.md",
     "Random Notes.md",
     "2_Python_GIS.md",
-    "Objectives/5_Data Analysis-Investigations-Publications.md",
     "Obsidian Notes.md",
-    "Objectives/4_LANDFIRE Production Support Subject Matter Expert.md",
     "Objectives/NIACS.md",
     "Objectives/Comms.md",
-    "Objectives/2_LANDFIRE Communication.md",
     "Objectives/Tribal Collaboration.md",
     "Objectives/Puerto Rico.md",
     "Tribal Relations.md",
     "Objectives/Partnership with NRCS.md",
     "Cool Data Viz Projects.md",
-    "Objectives/USFS.md",
-    "Objectives/3_Tool and Process Development.md",
     "Objectives/Northwoods.md",
     "Journal of Pyrogeography.md",
     "Professional Development/Python and GIS.md",

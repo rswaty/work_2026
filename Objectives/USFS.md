@@ -3,8 +3,7 @@
 ### BpS Workshop
 
 - [x] update draft of Mesic BpS #objective2 
-- [ ] review and update model of Dry-Mesic (-Dry) #objective2 
-- [ ] review and update description of Dry-Mesic (-Dry) #objective2 
+- [ ] touch base with RD about to do list #objective2 
 
 
 ### Call with Cara Joos, PNW PSG, Tara Chestnut with PNW PSG and Kori; January 13, 2026

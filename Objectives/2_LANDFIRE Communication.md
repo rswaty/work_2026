@@ -23,18 +23,20 @@ These are planning and 'keep things moving with people' items.  Specific tasks w
 - [x] Email Francine Lheritier #objective2
 
 ### TPOS
-- [ ] draft "Burnable Ag" document #objective2 
+- [ ] follow up with Paul Charland
 - [x] write helpdesk about update pages #objective2 
 - [x] get TPOS assessment posted
-- [ ] prep ArcGIS pro
-	- [ ] add fuels
-	- [ ] make EVT with burnable/non-burnable ag colored
-- [ ] start work on burnable ag document?
+- [x] prep ArcGIS pro #objective2 
+	- [x] add fuels
+	- [x] make EVT with burnable/non-burnable ag colored
+
 
   ---
 ## Sub-Notes
 
 Use links for deeper dives:
+
+[[USFS]]
 
 ---
 ## Links & Resources

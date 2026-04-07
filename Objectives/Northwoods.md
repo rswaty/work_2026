@@ -18,7 +18,12 @@ Details and progress for the Northwoods project for MIBU, sponsored by Matt Dall
 	---
 ## Notes
 
-(Add meeting notes, ideas, or decisions here)
+### Meeting with Tracy March 25, 2026
+
+- what questions?
+- what deliverables?
+- any time-sensitive things?
+
   
 
 ---
