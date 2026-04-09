@@ -23,7 +23,7 @@ These are planning and 'keep things moving with people' items.  Specific tasks w
 - [x] Email Francine Lheritier #objective2
 
 ### TPOS
-- [ ] follow up with Paul Charland
+- [ ] follow up with Paul Charland #objective2 
 - [x] write helpdesk about update pages #objective2 
 - [x] get TPOS assessment posted
 - [x] prep ArcGIS pro #objective2 

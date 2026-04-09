@@ -7,6 +7,7 @@
 - [[3_Tools_Processes]]
 - [[4_Production_Support]]
 - [[5_Data_Analysis]]  
+- [[6_Admin]]
 
 ## Professional Development
 
@@ -56,6 +57,13 @@ task where contains(tags, "objective5") and !completed
 
 ```
 
+## Objective 6: Admin
+
+```dataview
+
+task where contains(tags, "objective6") and !completed
+
+```
 ## Career
 
 ```dataview

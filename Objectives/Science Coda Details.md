@@ -17,7 +17,7 @@ Details and progress for the TNC Science Coda project: Strengthening community c
   
 ## Tasks
 
-- [ ] Make STM slides #objective1 
+
 - [x] Look up process for summarizing Mendeley using AI
 - [ ] Draft and share lit review
 - [x] say hi to Rimchi #objective1 

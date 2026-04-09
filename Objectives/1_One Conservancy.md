@@ -21,11 +21,16 @@ These are planning and 'keep things moving with people' items.  Specific tasks w
 - [x] Work on relationship with a division and/or new BU #objective1
 - [x] Post and share draft BTG for James DePasquale et al
 - [x] Incorporate Jim's Shawnee River comments and Sarah's EVT palette; resend
-- [ ] Add in "Raw Data" page on WSCR, or just post #objective1 
+- [x] Ask team about https://rswaty.github.io/wscr/  #objective1 
 - [x] Watch for and participate in Data Standards and Quality work with Kate Shorrock and Amy Collins
 - [x] Meet with Jeremy Choon (Yale student; found me on LinkedIn) Friday January 9, 2026
-- [ ] Try to speed up Red Spruce Shiny for Katy Shallows #objective1 
 - [x] Reach out to Megan Shehan about CDL-Shiny integration #objective1 
+- [x] Send Shanke request for shapefiles #objective1 
+- [x] Meet with Ecological Health Network and TNC colleagues, RE: Apps tree list #objective1 
+- [x] Follow up with EHN and TNC partners #objective1 
+- [ ] Get Kirtlands warbler work on calendar #objective1 
+- [ ] Get UP data process for UPLC on calendar #objective1 
+- [x] Meet with Francine Lheritier
 
   ---
 
@@ -41,9 +46,3 @@ Use links for deeper dives:
 
 - 
 
----
-## Time Tracker
-
-```simple-time-tracker
-{"entries":[]}
-```
