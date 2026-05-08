@@ -21,9 +21,10 @@ These are planning and 'keep things moving with people' items.  Specific tasks w
 
 - [x] Reach out to Lisa Kluesner to set up meeting #objective2
 - [x] Email Francine Lheritier #objective2
+- [ ] Meet with helpdesk contact Katie RE: LF FRI mapping and data #objective2 
 
 ### TPOS
-- [ ] follow up with Paul Charland #objective2 
+- [x] follow up with Paul Charland #objective2
 - [x] write helpdesk about update pages #objective2 
 - [x] get TPOS assessment posted
 - [x] prep ArcGIS pro #objective2 

@@ -3,7 +3,9 @@
 ### BpS Workshop
 
 - [x] update draft of Mesic BpS #objective2 
-- [ ] touch base with RD about to do list #objective2 
+- [x] touch base with RD about to do list #objective2
+- [x] set up time to work on Hoosier BpSs #objective2
+- [ ] clean bps docs for hoosier #objective2 
 
 
 ### Call with Cara Joos, PNW PSG, Tara Chestnut with PNW PSG and Kori; January 13, 2026

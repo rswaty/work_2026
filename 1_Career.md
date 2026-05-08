@@ -22,3 +22,8 @@ Network, grow reputation and skills
 - Send resume
 - [ ] Make one page resume, send to Allen.  Include AI #career
 - [ ] Talk to Maria about networking #career 
+- [x] Set up meeting with Marek #career 
+- [ ] Prepare for meeting with Marek #career 
+- [ ] Policy
+	- [ ] review Policy Analysis Initiative connect page
+	- [ ] 

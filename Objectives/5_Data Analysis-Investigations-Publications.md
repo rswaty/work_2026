@@ -19,7 +19,7 @@ These are planning and 'keep things moving with people' items.  Specific tasks w
 
 - [x] Review Baker paper that Kori sent March 16, 2026 #objective5 
 - [ ] Review spreadsheet from Kori (email 'include/exclude papers', March 31, 2026) #objective5 
-- [ ] Look at Baker Uncompahgre paper for meeting with Kori on April 8, 2026
+- [x] Look at Baker Uncompahgre paper for meeting with Kori on April 8, 2026
 - [ ] Write abstract and message points for [[https://www.sciencedirect.com/special-issue/327746/fire-through-space-and-time-history-trends-patterns-and-regimes | Journal of Pyrogeography]] call for abstracts-share with team #objective5 
 
   ---

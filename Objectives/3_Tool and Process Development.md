@@ -17,6 +17,7 @@ These are planning and 'keep things moving with people' items.  Specific tasks w
 
 - [x] reach out to set up meeting with Mathurin #objective3
 - [ ] write BpS database workplan https://bpsdatabaseexplorer-gogodgbajgwoub2cj8vsyv.streamlit.app/ #objective3 
+- [ ] learn landpyre from Sam Roy #objective3 
 
 
   ---

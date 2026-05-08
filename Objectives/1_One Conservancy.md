@@ -28,9 +28,11 @@ These are planning and 'keep things moving with people' items.  Specific tasks w
 - [x] Send Shanke request for shapefiles #objective1 
 - [x] Meet with Ecological Health Network and TNC colleagues, RE: Apps tree list #objective1 
 - [x] Follow up with EHN and TNC partners #objective1 
-- [ ] Get Kirtlands warbler work on calendar #objective1 
-- [ ] Get UP data process for UPLC on calendar #objective1 
+- [x] Get Kirtlands warbler work on calendar #objective1
+- [x] Get UP data process for UPLC on calendar #objective1
 - [x] Meet with Francine Lheritier
+- [ ] Clean UPLC data #objective1 
+- [ ] Work up KW data, get reoriented to previous work
 
   ---
 
