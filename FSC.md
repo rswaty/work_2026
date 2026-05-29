@@ -3,20 +3,38 @@
 
 ### From meeting May 8, 2026
 
+- [ ] update FSC online book #objective2 
+	- [ ] I need to package .tif and shape.  Combine with Stacey's ppkg into zipped folder 
+	- [ ] fold in Keith's images and language for section 8.
+	- [ ] Stacey will do sections 3 and 5
+	- [ ] I need to update section 4 about landfire data and downloading, esp 4.3.  
+	- [ ] Me rebuild
+	- [ ] Ask Mary Kelly or Sam Kurkowski to look
 
-- [ ] I need to package .tif and shape.  Combine with Stacey's ppkg into zipped folder
-- [ ] fold in Keith's images and language for section 8.
-- [ ] Stacey will do sections 3 and 5
-- [ ] I need to update section 4 about landfire data and downloading, esp 4.3.  
-- [ ] Me rebuild
-- [ ] Ask Mary Kelly or Sam Kurkowski to look
+BY May 22nd Carly will get me language
+
+## Dashboard
+- [ ] FSC: build ecoregions dashboard (https://rswaty.github.io/ecological_section_dash/dashboard.html) #objective2 
+	- [ ] need to think through order
+	- [ ] conversational headings "What were my ecosystems historically"
+	- [ ] reference indicators
+	- [ ] need to add in succussion class information
+	- [ ] clarify use of the information
+	- [ ] add in a bit of a flow chart?
+	- [ ] think though the simplicity of FSC vs. LF
+	- [ ] for succession classes
+		- [ ] add instructions
+	- [ ] add table
+	- [ ] add bps descriptions
+
+## From call with Matt Silveira, May 29, 2026
 
 
 
 
+### Meeting with Carly and Amy, May 11
 
-
-Meeting with Carly Evans and Amy Clark Eagle, April 15, 2026
+### Meeting with Carly Evans and Amy Clark Eagle, April 15, 2026
 - Carly is part of the technical team. Dealing with standards and guidance; based on Atlanta.  More behind the scenes.  Complements outward facing
 - People want tools to help with transition, esp with RSAs
 - Ideas

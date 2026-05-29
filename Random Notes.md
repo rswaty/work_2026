@@ -1,3 +1,53 @@
+
+## With Eric Clark and Jason Tallant
+
+### Meeting May 29, 2026
+
+- Consortium for Consortium for Cooperative Ecological Resilience
+- Have MOUs with
+	- U of MI
+	- U of TN
+	- NMU
+- Northern Research Station
+	- curious will they be around
+	- national forest staff do not interact with them much
+- Two Forest Projects
+	- Shingle Bay
+	- Hemi-Boreal Decision Support 
+		- use LANDFIRE and SyncroSim.  Tyler Walters new Post-Doc learning this
+		- Kyle White and Neil Carter at U of MI will mentor Sarah Allen (phD student, Sault tribe) and Hayden Piprich (Sault Tribe, MS student) and a post doc doing remote sensing and wildlife work
+		- Hayden will have the most flexibility...quantitative and Ojibwe
+		- Develop NLP and EUP adaptive management framework
+		- 2 BpSs to model---send LCF papers to Tyler and Eric etc.
+		- $1.4M  from USFWS for EUP.  NLP is separate.
+		- There may be money for me and/or CDL project
+		- Compass Resource Management are the facilitators
+		- I might be Subject Matter Expert
+- Sault part of First Nations Development Institute
+	- think about how tribes do internal carbon biodiversity markets
+	- Kyle-works at justice, treaty rights, etc. coined "collective continuance" what do tribes need to do to persist
+	- What would it look like to see collective continuance credits
+	- using shingle bay as a pilot to think about this.  biodiversity, resilience, treaty harvests.  How to restore relationships between tribal members and ecosystems.  
+	- By the Chase Osborn preserve (U of MI)
+	- UESCO Biosphere reserve?
+- Global Land Restoration Fund-Sault has agreement.  At U of MI. 
+- Have 8 SEAS students using LANDFIRE data to think through land holdings---which are best.  
+- JT wondered about scaling
+	- can we assess LANDFIRE data using all of the inputs?  terrestrial lidar, aerial imagery, etc.
+	- helps universities justify plot data
+	- transferable nationally
+	- helps LANDFIRE
+
+- [ ] I draft up a proposal/document to start #objective3 
+	- [ ] data types and locations
+	- [ ] 
+- [ ] I help schedule a meeting in late June/early July with agenda.  Avoid tues late aftrenoon. web morning
+- [ ] I will send LANDFIRE data types to Jason
+- [ ] Eric will 
+	- set up folder 
+	- post relevant documents
+
+
 ## Work with William Khoury
 
 #objective2 

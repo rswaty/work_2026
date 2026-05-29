@@ -8,21 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce40fadb0cab7b15",
+            "id": "9bddf423a39db6f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objectives/5_Data Analysis-Investigations-Publications.md",
+                "file": "Random Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5_Data Analysis-Investigations-Publications"
+              "title": "Random Notes"
             }
           },
           {
-            "id": "d796bd4907b4aab2",
+            "id": "7b6cbbf5b507db8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objectives/Tribal Collaboration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tribal Collaboration"
+            }
+          },
+          {
+            "id": "e9673375f1e89c84",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,86 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objectives Dashboard.md",
+                "file": "Kirtland's Warbler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objectives Dashboard"
-            }
-          },
-          {
-            "id": "120f2207919f8c53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Random Notes"
-            }
-          },
-          {
-            "id": "c23f1d3d296cde56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objectives/1_One Conservancy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1_One Conservancy"
-            }
-          },
-          {
-            "id": "3603851273764125",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objectives/3_Tool and Process Development.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3_Tool and Process Development"
-            }
-          },
-          {
-            "id": "dbb40ca634d64043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objectives/5_Data Analysis-Investigations-Publications.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5_Data Analysis-Investigations-Publications"
-            }
-          },
-          {
-            "id": "34f5268c623a71a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objectives/6_Admin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6_Admin"
+              "title": "Kirtland's Warbler"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#objective5",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -293,13 +236,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d796bd4907b4aab2",
+  "active": "9bddf423a39db6f0",
   "lastOpenFiles": [
-    "Random Notes.md",
-    "Objectives/2_LANDFIRE Communication.md",
+    "Objectives/Tribal Collaboration.md",
     "FSC.md",
-    "CDL.md",
+    "Random Notes.md",
+    "Untitled.md",
+    "Objectives/Northwoods.md",
+    "Untitled.base",
+    "Legge et al., 2026 Mycorrhize and Fire in the Apps.md",
     "Objectives Dashboard.md",
+    "Kirtland's Warbler.md",
+    "Objectives/2_LANDFIRE Communication.md",
+    "CDL.md",
     "Objectives/5_Data Analysis-Investigations-Publications.md",
     "Objectives/3_Tool and Process Development.md",
     "Objectives/USFS.md",
@@ -317,11 +266,6 @@
     "2_Python_GIS.md",
     "Objectives/NIACS.md",
     "Objectives/Comms.md",
-    "Objectives/Tribal Collaboration.md",
-    "Objectives/Puerto Rico.md",
-    "Tribal Relations.md",
-    "Cool Data Viz Projects.md",
-    "Objectives/Northwoods.md",
     "Professional Development/Python and GIS",
     "Professional Development/GEE",
     "Objectives/Data Analysis",
