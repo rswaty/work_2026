@@ -1,6 +1,4 @@
- 
-
-## Work Objectives
+ ## Work Objectives
 
 - [[1_One_Conservancy]]
 - [[2_LANDFIRE Communication]]
@@ -29,7 +27,6 @@
 ### Objective 2: LANDFIRE Communications and Partner Support
 
 **Projects**
-
 * Prepare analysis and present at Kirtland's Warbler meeting #KirtlandsWarbler 
 * Draft and submit proposal for TPOS Support #TPOS 
 * Support Certification Tool Development #FSC 
@@ -41,8 +38,17 @@
 
 ## Objective 3: Tool and Process Development
 
+**Projects**
+* BpS database https://github.com/rswaty/bps_docs_parse 
+* BpS website https://github.com/rswaty/bps_database_explorer and https://bpsdatabaseexplorer-gogodgbajgwoub2cj8vsyv.streamlit.app/
 
 ## Objective 4: LANDFIRE Production Support/Subject Matter Expert
+
+**Projects**
+- Blankenship et al., 2026
+- Legg et al., 2026 #CDL 
+- Mydlowski et al., 2026 
+- McKenny et al., ??
 
 
 

@@ -19,6 +19,7 @@ Tags:  #objective2 #FSC
 		- [ ] add instructions
 	- [ ] add table
 	- [ ] add bps descriptions
+	- [ ] redo GIS with new sections https://data-usfs.hub.arcgis.com/datasets/50edb69f438b4ee5afa894758c88d18f_3/explore?location=36.964800%2C-95.859900%2C4
 
 ## From call with Matt Silveira, June 8, 2026
 

@@ -105,7 +105,8 @@
               "title": "1_One Conservancy"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -278,16 +279,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "183acc1cf73e7ae8",
+  "active": "5e0c7fd6b1b45b40",
   "lastOpenFiles": [
+    "Objectives Dashboard.md",
+    "Objectives/FSC.md",
     "Objectives/Tribal Collaboration.md",
     "Objectives/Puerto Rico.md",
-    "Objectives Dashboard.md",
     "Objectives/Kirtland's Warbler.md",
     "Objectives/1_One Conservancy.md",
     "Objectives/LANDFIRE Websites.md",
     "Objectives/2_LANDFIRE Communication.md",
-    "Objectives/FSC.md",
     "Collaborations.md",
     "Archive/Science Coda Details.md",
     "Archive",
