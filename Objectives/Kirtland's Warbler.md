@@ -1,6 +1,8 @@
+Linked to: [[2_LANDFIRE Communication]] 
+
+Tags:  #objective2 #KirtlandsWarbler 
 
 
-#objective2 
 ## Web report
 
 * https://rswaty.github.io/kw_habitat/

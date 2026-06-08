@@ -1,11 +1,21 @@
+## LANDFIRE Communications Objective
+
+Linked to: [[2_LANDFIRE Communication]] 
+
+Tags: #objective2 #USFS #PlanningServiceGroups #HoosierNF
+
+## OH 17 County Assessment area
+
+- [ ] combine BpS, EVT, EVC, EVH together, send to Lisa #objective2 
+- [ ] combine TreeMap and BpS together, send to Lisa #objective2 
+
+
+
 ## Hoosier National Forest
 
-### BpS Workshop
+### BpS Review
 
-- [x] update draft of Mesic BpS #objective2 
-- [x] touch base with RD about to do list #objective2
-- [x] set up time to work on Hoosier BpSs #objective2
-- [ ] clean bps docs for hoosier #objective2 
+Currently waiting for review June 6, 2026 #HoosierNF 
 
 
 ### Call with Cara Joos, PNW PSG, Tara Chestnut with PNW PSG and Kori; January 13, 2026

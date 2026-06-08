@@ -21,41 +21,33 @@
 ## 🔍 Open Tasks by Objective  
 
 ### Objective 1: One Conservancy
-```dataview
 
-task where contains(tags, "objective1") and !completed
+**Projects**
+- Support Impact Management Team #ImpactManagementTeam 
+- Be available to support Western Dry Forest Program
+- Brainstorm projects with CRCS (with Jim)
+### Objective 2: LANDFIRE Communications and Partner Support
 
-```
+**Projects**
 
-## Objective 2: LANDFIRE Communications
-```dataview
+* Prepare analysis and present at Kirtland's Warbler meeting #KirtlandsWarbler 
+* Draft and submit proposal for TPOS Support #TPOS 
+* Support Certification Tool Development #FSC 
+* Maintain and grow CDL #CDL
+* Maintain and develop LANDFIRE websites such as Landscape Assessment
+* Assist with LF Open Office Hours
+* Support Tribal Work #SupportTribes
 
-task where contains(tags, "objective2") and !completed
-
-```
 
 ## Objective 3: Tool and Process Development
-```dataview
 
-task where contains(tags, "objective3") and !completed
-
-```
 
 ## Objective 4: LANDFIRE Production Support/Subject Matter Expert
 
-```dataview
 
-task where contains(tags, "objective4") and !completed
-
-```
 
 ## Objective 5: Data Analysis/Investigations/Publications
 
-```dataview
-
-task where contains(tags, "objective5") and !completed
-
-```
 
 ## Objective 6: Admin
 
