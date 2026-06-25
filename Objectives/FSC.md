@@ -14,16 +14,17 @@ Tags:  #objective2 #FSC
 
 ## Dashboard
 - [ ] FSC: build ecoregions dashboard (https://rswaty.github.io/ecological_section_dash/dashboard.html) #objective2 
-	- [ ] need to add in succussion class information
-	- [ ] for succession classes
-		- [ ] add instructions
-	- [ ] add table
-	- [ ] add bps descriptions
-	- [ ] redo GIS with new sections https://data-usfs.hub.arcgis.com/datasets/50edb69f438b4ee5afa894758c88d18f_3/explore?location=36.964800%2C-95.859900%2C4
+	- [x] send to Carly and Amy for next round of reviews
+	- [x] need to add in succussion class information
+	- [x] for succession classes
+		- [x] add instructions
+	- [x] add table
+	- [x] add bps descriptions
+	- [x] redo GIS with new sections https://data-usfs.hub.arcgis.com/datasets/50edb69f438b4ee5afa894758c88d18f_3/explore?location=36.964800%2C-95.859900%2C4
 
 ## From call with Matt Silveira, June 8, 2026
 
-
+Recommends Digital Review Committee review-would mean posting to maps.tnc.org.  Erik Martin says he can just post there. 
 
 
 ### Meeting with Carly Evans and Amy Clark Eagle, April 15, 2026

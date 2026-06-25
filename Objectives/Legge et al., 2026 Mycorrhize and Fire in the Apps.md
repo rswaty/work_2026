@@ -10,4 +10,7 @@
 	- [x] Eva populates bps-ref label with myco status for top 5 bpss
 	- [x] We meet 
 	- [x] 60, 61, 62 MZs
-- [ ] send myco-EVA to Eva
+- [ ] Explore UN/UE
+	- [ ] combine bps-scl-evt-evc-evh
+	- [ ] pivot and explore
+	- [ ] report to Eva
